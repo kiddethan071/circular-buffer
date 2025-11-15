@@ -1,0 +1,14 @@
+# Compiled files
+*.o
+*.out
+*.exe
+a.out
+.DS_Store
+*.obj
+
+# Visual Studio
+*.vcxproj
+*.sln
+*.user
+Debug/
+Release/
